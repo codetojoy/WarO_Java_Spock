@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/codetojoy/WarO_Java_Spock.svg?branch=master)](https://travis-ci.org/codetojoy/WarO_Java_Spock)
 
 WarO_Java_Spock
 =========
